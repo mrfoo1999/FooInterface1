@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FooInterface1</string>
+    <string name="PopularFerryCompanies">Popular Ferry Companies</string>
+    <string name="FerryTaleIcon">FerryTaleIcon</string>
+    <string name="FerryTaleDescription1">1</string>
+    <string name="FerryTaleDescription2">2</string>
+    <string name="FerryTaleDescription3">3</string>
+    <string name="FerryTaleDescription4">4</string>
+    <string name="DesButtonClick1">DesButtonClick1</string>
+    <string name="DefaultDesc"> ~Welcome For Using FerryTale !~</string>
+    <string name="JoinButton">Join Now</string>
+    <string name="LoginButton">Login</string>
+    <string name="Preference">Preference</string>
+    <string name="Language">Language</string>
+</resources>
